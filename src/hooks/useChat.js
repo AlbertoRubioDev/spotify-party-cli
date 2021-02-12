@@ -5,6 +5,7 @@ import useQueueSong from "./useQueueSong";
 import {AuthContext} from "../context";
 
 
+
 const NEW_CHAT_MESSAGE_EVENT = "newChatMessage"; // Name of the event
 const SOCKET_SERVER_URL = "https://spotify-chat-party.herokuapp.com/";
 
